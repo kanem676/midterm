@@ -1,0 +1,50 @@
+body {
+	font-family: Arial;
+}
+
+#p1 {
+	font-size: 12px;
+}
+
+figure {
+	border-style: solid;
+	border-width: 1px; 
+	border-color: grey; 
+	background-color: #F5EFFB;
+}
+
+figcaption{
+	font-size: 11px;
+}
+
+img {
+	padding: 7px;
+}
+
+#title1 {
+	border-bottom: solid;
+	border-width: 1px; 
+	border-color: grey; 
+	font-family: "Times New Roman"; 
+}
+
+
+h3 {
+	border-bottom: solid;
+	border-width: 1px; 
+	border-color: grey; 
+	font-family: "Times New Roman"; 
+	font-size: 22px; 
+}
+
+#Contents {
+	border-style: solid;
+	background-color: #F5EFFB;
+	border-width: 1px; 
+	border-color: grey; 
+}
+
+
+#column {
+  column-count: 2;
+}
