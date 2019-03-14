@@ -59,17 +59,24 @@ h3 {
 
 a.contents: visited
  {
- 	color: purple
+ 	color: purple;
 }
 
 
 a.contents: hover
  {
- 	color: pink
+ 	color: pink;
 }
 
 
 a.contents: active
  {
- 	color: blue
+ 	color: blue;
 }
+
+a.contents: 
+ {
+ 	color: grey;
+}
+
+
